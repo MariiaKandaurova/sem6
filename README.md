@@ -129,6 +129,9 @@
   Поддерживает динамическое добавление и удаление рёбер в процессе заливки. Работает с горизонтальными строками, находя пересечения рёбер с текущей строкой и заполняя пиксели между этими пересечениями.
 ![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20073910.png)
 ![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20073950.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/lw1.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/lw3.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/lw6.png)
 
   # Лабораторная работа №7
 
