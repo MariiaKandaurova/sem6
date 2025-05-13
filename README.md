@@ -8,16 +8,16 @@
 
 ## Алгоритм ЦДА (DDA)
 Последовательно продвигается от начала к концу, равномерно увеличивая координаты и на каждом шаге выбирая ближайший пиксель.
-!(https://github.com/MariiaKandaurova/sem6/blob/main/images/cda.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/cda.png)
 
 ## Алгоритм Брезенхема
 Использует целочисленный счётчик ошибки для решения, в каком направлении сдвинуться (по X или по Y), чтобы линия шла максимально близко к идеалу.
-!(https://github.com/MariiaKandaurova/sem6/blob/main/images/b.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/b.png)
 
 ## Алгоритм Ву
 Строит сглаженную линию, распределяя яркость между двумя соседними пикселями для устранения «ступенек» и получения более плавного контура.
 
-!(https://github.com/MariiaKandaurova/sem6/blob/main/images/wu.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/wu.png)
 
 
 
@@ -58,7 +58,7 @@
 
 ## B-сплайн
 Генерирует гладкие кривые, проходящие рядом с заданными точками. Обеспечивает непрерывность первой и второй производных на стыках сегментов, делая кривую гибкой и плавной.  
-!(https://github.com/MariiaKandaurova/sem6/blob/main/images/curve.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/curve.png)
 
 # Лабораторная работа №4
 
@@ -89,7 +89,7 @@
 ### Сброс
 Метод **reset** восстанавливает начальное положение модели, сбрасывая все преобразования:
 - **Сброс** — возврат к исходным координатам и масштабу модели.
-!(https://github.com/MariiaKandaurova/sem6/blob/main/images/cube.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/cube.png)
 
 # Лабораторная работа №5 и №6
 ![Условие](https://github.com/MariiaKandaurova/sem6/blob/main/images/lw5.png)
@@ -127,11 +127,8 @@
 
 - **Алгоритм растровой развертки с упорядоченным списком активных рёбер**  
   Поддерживает динамическое добавление и удаление рёбер в процессе заливки. Работает с горизонтальными строками, находя пересечения рёбер с текущей строкой и заполняя пиксели между этими пересечениями.
-![Условие](https://github.com/MariiaKandaurova/sem6/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20073910.png)
-![Условие](https://github.com/MariiaKandaurova/sem6/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20073950.png)
-![Условие](https://github.com/MariiaKandaurova/sem6/blob/main/images/lw6.png)
-![Условие](https://github.com/MariiaKandaurova/sem6/blob/main/images/lw7.png)
-![Условие](https://github.com/MariiaKandaurova/sem6/blob/main/images/lw7.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20073910.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20073950.png)
 
   # Лабораторная работа №7
 
@@ -149,7 +146,7 @@
 - Рёбра находятся на серединных перпендикулярах рёбер триангуляции Делоне.
 
 
-!(https://github.com/MariiaKandaurova/sem6/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20082926.png)
+![Пример](https://github.com/MariiaKandaurova/sem6/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-05-13%20082926.png)
 
 
 
